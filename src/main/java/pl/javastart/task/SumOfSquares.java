@@ -19,6 +19,5 @@ public class SumOfSquares {
             squareSum += Math.pow(number, 2);
         }
         System.out.println("Suma kwadratów wprowadzonych liczb to " + (int) squareSum);
-        scanner.close();
     }
 }
